@@ -1,0 +1,5 @@
+a=input("Enter the number a : ")
+b=input("Enter the number b : ")
+print("Here a is greater number: ", a>b)
+print("Here b is greater number: ", b>a)
+print("Both numbers are equal: ", a==b) 
