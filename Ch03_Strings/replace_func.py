@@ -1,0 +1,5 @@
+str="Prasun is very good good boy"
+print(str.replace("good", "bad"))  # Replaces all occurrences of "good" with "bad"
+print(str.replace("good", "bad", 1))  # Replaces only the first occurrence of "good" with "bad"
+print(str.replace("good", "bad", 2))  # Replaces the first two occurrences of "good" with "bad"
+print(str.replace("good", "bad", 3))    # Replaces the first three occurrences of "good" with "bad"
